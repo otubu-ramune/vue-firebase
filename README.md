@@ -1,5 +1,5 @@
 # class-tracker
-
+firebase(emulator)
 ## Project setup
 ```
 npm install
